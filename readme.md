@@ -59,8 +59,9 @@ Follow these steps to set up and run the project:
    ```
 
 9. **Access the Application:**
-
    - Open your web browser and go to `http://127.0.0.1:8000/` to access the "Hello World" page.
+   - Register using the endpoint `http://127.0.0.1:8000/auth/register/`.
+   - Login using the endpoint `http://127.0.0.1:8000/auth/login/`.
    - To access the admin panel (if you created a superuser), go to `http://127.0.0.1:8000/admin/`.
 
 ## Running Tests
