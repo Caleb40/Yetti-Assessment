@@ -24,7 +24,7 @@ Follow these steps to set up and run the project:
 3. **Install Pipenv (Optional):**
 
    ```bash
-   python -m pip install pipenv
+   pip install pipenv
    ```
    
 4. **Install the Requirements from Pipfile:**
